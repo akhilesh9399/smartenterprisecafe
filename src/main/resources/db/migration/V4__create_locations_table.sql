@@ -1,0 +1,8 @@
+CREATE TABLE locations
+(
+
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+    city_name VARCHAR(100) NOT NULL,
+    active    BOOLEAN DEFAULT TRUE
+
+);
