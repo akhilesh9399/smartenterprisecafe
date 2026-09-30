@@ -9,6 +9,13 @@ public class ScafeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ScafeApplication.class, args);
 		System.out.println("Application start");
-	}
+		System.out.println("git is enabled in IntelliJ id");
+
+        try {
+            Thread.sleep(6000);
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+    }
 
 }
