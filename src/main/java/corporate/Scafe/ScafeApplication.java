@@ -10,6 +10,7 @@ public class ScafeApplication {
 		SpringApplication.run(ScafeApplication.class, args);
 		System.out.println("Application start");
 		System.out.println("git is enabled in IntelliJ id");
+		Systm.out.println("Application work successfully");
 
     }
 
