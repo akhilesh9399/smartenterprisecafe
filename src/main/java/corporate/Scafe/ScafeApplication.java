@@ -11,11 +11,6 @@ public class ScafeApplication {
 		System.out.println("Application start");
 		System.out.println("git is enabled in IntelliJ id");
 
-        try {
-            Thread.sleep(6000);
-        } catch (InterruptedException e) {
-            throw new RuntimeException(e);
-        }
     }
 
 }
