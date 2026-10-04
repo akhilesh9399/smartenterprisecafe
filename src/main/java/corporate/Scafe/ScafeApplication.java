@@ -7,6 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ScafeApplication {
 
 	public static void main(String[] args) {
+				SpringApplication.run(ScafeApplication.class, args);
+
 	}
 	
 
