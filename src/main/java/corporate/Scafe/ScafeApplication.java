@@ -15,7 +15,7 @@ public class ScafeApplication {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        System.out.println("git gub work properly ");
+        System.out.println("Git Hub work properly developer add all these functionality!");
 
     }
 
