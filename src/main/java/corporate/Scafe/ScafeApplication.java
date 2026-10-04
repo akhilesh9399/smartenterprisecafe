@@ -15,6 +15,7 @@ public class ScafeApplication {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
+        System.out.println("git gub work properly ");
 
     }
 
