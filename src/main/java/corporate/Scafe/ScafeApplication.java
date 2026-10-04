@@ -26,7 +26,7 @@ public class ScafeApplication {
 
 
 	public String User(){
-		return "Hii User not found!";
+		return "Hii User not found! Pls cheack Bugs!";
 	}
 	
 
