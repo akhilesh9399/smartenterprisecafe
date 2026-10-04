@@ -24,4 +24,10 @@ public class ScafeApplication {
         System.out.println("Bring Employee files");
     }
 
+
+	public String User(){
+		return "Hii User not found!";
+	}
+	
+
 }
