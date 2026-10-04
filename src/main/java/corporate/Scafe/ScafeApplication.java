@@ -17,6 +17,11 @@ public class ScafeApplication {
         }
         System.out.println("Git Hub work properly developer add all these functionality!");
 
+
+
+    }
+    public void employee(){
+        System.out.println("Bring Employee files");
     }
 
 }
