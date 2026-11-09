@@ -1,6 +1,5 @@
 
 name: Smart Cafe CI/CD Pipeline
-
 on:
   push:
     branches:
