@@ -8,6 +8,7 @@ public class ScafeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ScafeApplication.class, args);
+		System.out.println("This is springboot Applications");
     }
 
 }
